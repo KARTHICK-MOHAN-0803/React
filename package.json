@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a react practice ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Karthick",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KARTHICK-MOHAN-0803/React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KARTHICK-MOHAN-0803/React/issues"
+  },
+  "homepage": "https://github.com/KARTHICK-MOHAN-0803/React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  }
+}
